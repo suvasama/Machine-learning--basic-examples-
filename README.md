@@ -1,4 +1,4 @@
-# Machine learning, basic examples 
+# Machine learning, basic examples
 
 # KNN, K-fold cross-validation, logistic regression, linear regression
 
